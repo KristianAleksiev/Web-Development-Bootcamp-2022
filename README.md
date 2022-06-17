@@ -65,3 +65,7 @@
 <li>NFT minting, buying and selling logic</li>
 </ul>
 
+
+
+![london_app_logo](https://user-images.githubusercontent.com/103513324/174281274-d7f668d1-7510-465c-8ad3-146d073a3266.png)
+
