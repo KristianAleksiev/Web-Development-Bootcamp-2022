@@ -1,4 +1,4 @@
-<h1>LondonAppBrewery's "The Complete 2022 Web Development Bootcamp"</h1>
+<h1>LondonAppBrewery's "Complete 2022 Web Development Bootcamp"</h1>
 
 <h2><strong>Tools and technologies:</strong></h2>
 
