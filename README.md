@@ -4,62 +4,64 @@
 
 <h3>Front-End Web Development</h3>
 <ul>
-HTML 5
+  <li>HTML 5</li>
 
-CSS 3
+<li>CSS 3</li>
 
-Bootstrap 4
+<li>Bootstrap 4</li>
 
-Javascript ES6
+<li>Javascript ES6</li>
 
-DOM Manipulation
+<li>DOM Manipulation</li>
 
-jQuery
+<li>jQuery</li>
 
-Bash Command Line
+<li>Bash Command Line</li>
 
-Git, GitHub and Version Control</ul>
+<li>Git, GitHub and Version Control</li>
+</ul>
 
 <h3>Backend Web Development</h3>
 <ul>
 
-Node.js
+<li>Node.js</li>
 
-NPM
+<li>NPM</li>
 
-Express.js
+<li>Express.js</li>
 
-EJS
+<li>EJS</li>
 
-REST
+<li>REST</li>
 
-APIs
+<li>APIs</li>
 
-Databases
+<li>Databases</li>
 
-SQL
+<li>SQL</li>
 
-MongoDB
+<li>MongoDB</li>
 
-Mongoose
+<li>Mongoose</li>
 
-Authentication
+<li>Authentication</li>
 
-Firebase
+<li>Firebase</li>
 
-React.js
+<li>React.js</li>
 
-React Hooks
+<li>React Hooks</li>
 
-Web Design
+<li>Web Design</li>
 
-Deployment with GitHub Pages, Heroku and MongoDB Atlas
+<li>Deployment with GitHub Pages, Heroku and MongoDB Atlas</li>
 
-Web3 Development on the Internet Computer
+<li>Web3 Development on the Internet Computer</li>
 
-Blockchain technology
+<li>Blockchain technology</li>
 
-Token contract development
+<li>Token contract development</li>
 
-NFT minting, buying and selling logic</ul>
+<li>NFT minting, buying and selling logic</li>
+</ul>
 
