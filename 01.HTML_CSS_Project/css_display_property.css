@@ -1,0 +1,16 @@
+/* Block display - Whole width of the screen */
+-Paragraphs
+-Headers
+-Divs
+-List and list items
+-Forms
+
+/* Inline display element - Takes up as much space as the content */
+- Span - Selecting a section for a different styling
+- Image elements
+- Anchors
+N.B. - Width cannot be changed on inline elements unless display value is changed
+display: inline;
+display: block;
+display: INLINE-BLOCK;
+display: none; (visibility: hidden;)
