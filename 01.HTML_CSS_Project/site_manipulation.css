@@ -1,0 +1,35 @@
+/* inline css */
+<body style="background-color: blue;"> /* mdn color_value */
+/* external css  pesticide plugin*/
+hr{ /* Tag selector */
+  margin-left: auto;
+  border-style: dotted none none;
+  height: 2px;
+  border-width: 50px;
+  width: 100px; /* % */
+  border-color: grey;
+}
+/* devdocs.io */
+img{
+  width: 30%;
+}
+table{
+  cellspacing: 2px;
+}
+#id_selector
+.class selector
+
+/* Pseudoclass  */
+
+img:hover{/* different state */
+  background-color: gold;
+}
+
+/* Intermediate CSS */
+
+/* Favicons - favicon.cc */
+/* <link rel="icon" href="favicon.ico"> */
+
+
+/* flaticon.com - Vector icons */
+/* giphy.com  - Gifs*/
