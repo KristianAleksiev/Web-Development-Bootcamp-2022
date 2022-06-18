@@ -1,0 +1,16 @@
+Position:
+- Static - Following HTML flow
+- Relative - According to the static flow (left: 30%), top bottom left right(x,y)
+img{
+  position: relative;
+  top:50px; Moves down
+}
+- Absolute - Relative to the parent, affects the HTML flow
+div{
+  position: relative;
+}
+img{
+  position: absolute;
+  right: 30px;
+}
+- Fixed - Scrolling doesn't affect it (fixed navbar, sidebar)
