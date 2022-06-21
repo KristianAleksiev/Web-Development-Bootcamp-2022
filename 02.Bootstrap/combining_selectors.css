@@ -1,0 +1,31 @@
+/* html tag selectors combining */
+h1, h2, h3, h4 {
+  code block
+}
+
+/* Hierarchical selectors */
+/* Parent to child */
+#title .container-fluid{
+  code block
+}
+
+.container-fluid #title{
+  code block if class is a parent of id
+}
+
+/* Combined selectors */
+selector1#selector2{
+}
+
+h1#title{
+  color:red;
+}
+
+
+element .class
+/* Element with class X that is inside an element with class Y */
+
+element.class
+
+h1.class1.class2
+/* an element h1 which has class 1 and class 2 */
