@@ -1,0 +1,32 @@
+@media print {
+  h1{
+    color: red;
+  }
+}
+
+
+@media screen{
+
+}
+@media speech {
+
+}
+
+@media type{feature} - Only activated when the type is executed
+Checking for change of condition
+
+
+
+
+h1{
+  font-size: 30px;
+}
+@media (max-width: 900px;){/* Only when screen size drops below 900 px, executing code block*/
+  h1{
+    color: red;
+    font-size: 50px;
+  }
+}
+
+
+@media (max-width: 900px;) and (max-width: 1100px;){code block}
