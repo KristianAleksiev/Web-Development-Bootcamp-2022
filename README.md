@@ -32,9 +32,7 @@
 
 <li>EJS</li>
 
-<li>REST</li>
-
-<li>APIs</li>
+<li>REST APIs</li>
 
 <li>Databases</li>
 
