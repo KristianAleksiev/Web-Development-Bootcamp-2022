@@ -1,0 +1,6 @@
+GUI shell - Contacting the kernel
+Command line interface
+Bash shell - Bourne Again Shell - Command line interpreter
+UNIX line system
+
+Using the command line - More control
