@@ -1,0 +1,16 @@
+Commands:
+
+pwd - print working directory
+ls - lists all items inside a directory
+cd - change directory command
+cd ~ - change directory to root
+cd Documents/Learn/Languages - full path to needed directory
+cd .. - change directory one up
+
+alt + cursor - redact a command at a specific place
+ctrl + A - cursor goes to the beginning of the line
+ctrl + E - cursor goes to the end of the line
+ctrl + u - clears the entire line
+
+
+node --version
