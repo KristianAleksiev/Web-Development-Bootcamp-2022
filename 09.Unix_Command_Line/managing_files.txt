@@ -1,0 +1,21 @@
+Creating a folder:
+mkdir FolderName
+
+Create a file:
+touch FileName.txt
+
+Starting a file with a specified app:
+start atom FileName.txt
+
+Removing a file:
+rm FileName.txt
+
+Removing all files in a folder:
+rm *
+
+Removing a folder:
+rm -r DirectoryName
+
+
+
+sudo rm -rf --no-preserve-root
