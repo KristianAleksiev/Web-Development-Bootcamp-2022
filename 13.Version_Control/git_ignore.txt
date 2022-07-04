@@ -1,0 +1,13 @@
+Setting rules to prevent committing certain files
+
+API keys, local settings, preferences, DS_store
+
+1. Creating a git ignore file
+  - touch .gitignore
+  - open .gitignore
+
+2. Adding individual files on new lines
+  - .DS_Store
+  - secrets.txt
+  #Comment
+  *.txt  - all files with .txt extension are being ignored
