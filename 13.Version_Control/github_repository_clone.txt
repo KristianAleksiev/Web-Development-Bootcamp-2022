@@ -1,0 +1,5 @@
+Getting the remote repository content to a local source
+
+1. Clone to computer
+ - git clone url-of-desired-repo
+ - git log
