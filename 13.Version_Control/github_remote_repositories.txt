@@ -1,0 +1,6 @@
+1. Create a repository in site-based GitHub
+
+2. Push and existing local repository from the command line
+  -git remote add origin GitHub-end-address of repo(url)
+  -git push -u origin master (-u - linking remote with local) (master - main branch)
+  
