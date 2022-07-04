@@ -1,0 +1,2 @@
+Making a copy on another GitHub account - Fork - Work locally - 
+The owner of the original repository decides to pull into his main or no
