@@ -1,0 +1,23 @@
+Version control - Creating safe points
+
+LOCALY
+
+1. Navigating to the working folder address
+
+2. Creating a git local repo, staging area(which files are to be tracked)
+  - git init
+  - git add filename // git add . (everything in the directory)
+  - git status
+
+3. Committing
+  - git commit -m "message"(m flag - changes message, present tense)
+  - git log (checks the committed changes)
+
+4. Checking the differences between the latest safe point and current
+  - git diff filename
+
+5. Reverting back to a previous version
+  - git checkout filename
+
+Removing files from staging area
+- git rm --cached -r .
