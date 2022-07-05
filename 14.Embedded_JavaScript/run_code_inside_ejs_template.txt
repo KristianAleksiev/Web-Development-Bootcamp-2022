@@ -1,0 +1,11 @@
+<% if (kindOfDay ==="Saturday" || kindOfDay === "Sunday"){ %>
+
+<h1 style="color: purple"><%=kindOfDay%> ToDo List</h1>
+
+<% }else{ %>
+
+<h1 style="color: blue"><%=kindOfDay%> ToDo List</h1>
+<% } %>
+
+Inside ejs file
+<% %> - Scriplet tags, line by line, everything that is not HTML inside it
