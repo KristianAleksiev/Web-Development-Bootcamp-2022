@@ -1,0 +1,5 @@
+npm install ejs
+1. Create views folder
+2. Create ejs extension file (HTML active)
+3. <h1>It's a <%= kindOfDay %> !</h1> Inside ejs file
+4. res.render("list", {kindOfDay: day}); in JS file
