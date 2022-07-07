@@ -1,0 +1,39 @@
+Databases Introduction
+
+SQL - Structured Query Language
+-MySQL
+-PostgreSQL
+
+NoSQL - Not only Structured Query Language
+-MongoDB
+-Redis
+
+SQL vs NoSQL:
+
+1. Structure
+-SQL Databases - Table structure
+-SQL Databases are older, structured and reliable, Schema required
+-SQL Database groups data into tables
+-SQL Databases are not flexible
+-SQL Databases inputs Null for every field missing
+
+-NoSQL Databases - Document structure
+-NoSQL Databases - JSON objects, key value pairs
+-NoSQL Databases - More flexible to changes
+
+2. Data relations
+-SQL - Good at establishing data relations - Group related piece of data into individual tables(customer, products, orders)
+-NoSQL - Embedded objects, data repetition, not great with complex relations
+
+3. Scalability
+-NoSQL - Strong Scalability, preferred with bigger data structure, distributed system of data is possible
+-NoSQL - Scales horizontally
+-SQL - Scales vertically
+-SQL - Getting slower with more data
+
+
+Main operations with databases:
+Create
+Read
+Update
+Destroy
