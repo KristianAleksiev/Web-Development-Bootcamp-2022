@@ -1,0 +1,11 @@
+SQL SELECT keyword
+
+Selecting a column:
+
+SELECT * FROM "products";
+SELECT name, price FROM "products";
+
+Selecting a row:
+SELECT col1, col2...
+FROM "products"
+WHERE id=1
