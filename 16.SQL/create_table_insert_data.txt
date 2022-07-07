@@ -1,0 +1,25 @@
+CREATE TABLE table_name(
+ column_name1 datatype,
+ column_name2 datatype,
+ column_name3 datatype,
+)
+INSERT INTO table_name
+VALUES (1, "Pen", 1.20)
+
+
+
+CREATE TABLE products(
+id INT NOT NULL,
+name STRING,
+price MONEY,
+PRIMARY KEY (id)
+)
+
+INSERT INTO products
+VALUES (1, "Pen", 1.20)
+
+
+When we are missing an element value:
+
+INSERT INTO products(id, name)
+VALUES (2, "Pencil")
