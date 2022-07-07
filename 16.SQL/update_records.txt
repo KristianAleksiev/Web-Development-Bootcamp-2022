@@ -1,0 +1,27 @@
+UPDATE table_name
+SET column1 = value1, column2=value2
+WHERE condition:
+
+
+
+UPDATE products
+SET price = 0.8 -  Without WHERE, the command will change every price to 0.8
+WHERE id=2
+
+
+Update by adding a column:
+
+ALTER TABLE table name
+ADD col_name datatype
+
+ALTER products
+ADD stock INT - After adding the column, values are Null
+
+
+UPDATE products
+SET stock = 32
+WHERE id=1
+
+UPDATE products
+SET stock = 12
+WHERE id=2
