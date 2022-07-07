@@ -1,0 +1,21 @@
+CREATE TABLE orders(
+id INT NOT NULL
+order_number INT,
+customer_id INT,
+product_id INT,
+PRIMARY KEY (id),
+FOREIGN KEY(customer_id) REFERENCES customers(id),
+FOREIGN KEY (product_id) REFERENCES products(id),
+)
+
+
+INSERT INTO orders
+VALUES (1, 4362, 2, 1)
+
+
+Joining tables together: Inner join
+Searching through the tables and creating a new combined one
+
+SELECT orders.order_number, customers.first_name, customers.last_name, customers.address
+FROM orders
+INNER JOIN customers ON orders.customerID = customers.id
