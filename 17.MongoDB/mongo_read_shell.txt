@@ -1,0 +1,7 @@
+db.collection_name.find(query, projection)
+
+
+db.products.find() - reads the products collection
+db.products.find({name: "Pencil"})
+db.products.find({price: {$gt: 1}}) - Query based on price bigger than 1
+db.products.find({_id: 1}, {name: 1}) - Specific query for id and name
