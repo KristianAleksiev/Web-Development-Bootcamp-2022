@@ -1,0 +1,14 @@
+{
+  "name": "app_with_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K.Aleksiev",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
