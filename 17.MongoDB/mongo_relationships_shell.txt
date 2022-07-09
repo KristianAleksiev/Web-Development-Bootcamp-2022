@@ -1,0 +1,47 @@
+db.products.insert({
+_id: 3,
+name: "Rubber",
+price: 1.3,
+stock: 43,
+reviews: [
+{
+authorName: "Sally",
+rating: 5,
+review: "Very good rubber!"
+},
+{
+authorName: "George",
+rating: 5,
+review: "Great rubber!"
+}]})
+
+db.products.show()
+
+
+
+
+db.products.insertOne({
+_id: 4,
+name: "Tire",
+price: 0.8,
+stock:12,
+review:[
+{
+authorName: "James",
+rating: 5,
+review: "Fantastic"
+},
+{
+authorName: "Mitko",
+rating: 5,
+review: "Best tire ever!"
+},
+]
+})
+
+
+
+{
+orderNumber: 3243,
+productsOrdered: [1, 2]
+}
