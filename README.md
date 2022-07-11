@@ -8,7 +8,7 @@
 
 <li>CSS 3</li>
 
-<li>Bootstrap 4</li>
+<li>Bootstrap</li>
 
 <li>Javascript ES6</li>
 
@@ -19,6 +19,9 @@
 <li>Bash Command Line</li>
 
 <li>Git, GitHub and Version Control</li>
+
+<li>Web Design</li>
+
 </ul>
 
 <h3>Backend Web Development</h3>
@@ -44,23 +47,12 @@
 
 <li>Authentication</li>
 
-<li>Firebase</li>
-
 <li>React.js</li>
 
 <li>React Hooks</li>
 
-<li>Web Design</li>
+<li>Deployment with GitHub Pages and Heroku </li>
 
-<li>Deployment with GitHub Pages, Heroku and MongoDB Atlas</li>
-
-<li>Web3 Development on the Internet Computer</li>
-
-<li>Blockchain technology</li>
-
-<li>Token contract development</li>
-
-<li>NFT minting, buying and selling logic</li>
 </ul>
 
 
