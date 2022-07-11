@@ -1,0 +1,28 @@
+http request- API - server - database - server - http response
+ftp Request
+https request
+
+RESTful API - Architecture (GraphQL, SOAP, FALCOR)
+- A set of rules for building an API throughout the internet
+
+- Use HTTP Request verbs
+- Use specific pattern of routes/endpoint urls
+
+REST HTTP Verbs:
+- Get (READ) - app.get(function(req, res){})
+
+- Post - app.post(function(req, res){})
+
+- Put - Update database
+  app.put(function(req, res){}) - Updating by sending an entire entry
+
+- Patch - Update a database
+  app.patch(function(req, res){}) - Updating by sending a piece of data
+   that needs to be updated
+
+- Delete
+  app.delete(function(){})
+
+
+  REST HTTP Specific routes (urls):
+   - /articles, /articles/elephants
